@@ -12,4 +12,5 @@
 ![Top-Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=The-Coder-Kishor&show_icons=true&theme=gruvbox)
 
 # Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/The-Coder-Kishor)
+![Leetcode Stats](https://leetcard.jacoblin.cool/The-Coder-Kishor?ext=activity)
+
